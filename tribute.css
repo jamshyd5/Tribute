@@ -1,0 +1,99 @@
+body{
+	font-size: 16pt;
+	font-family: Courier New;
+}
+
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.names{
+	background-color: gray;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	opacity: 90%;
+}
+
+#description{
+	font-weight: bold;	
+	text-align: center;
+}
+
+#description1{
+	font-weight: bold;	
+	text-align: center;
+	color: #000000;
+}
+
+#image{
+	padding-top: 20px;
+	width: 33.33%;
+	height: 300px;
+	float: left;
+	display: inline-block;
+
+}
+
+#img-caption{
+	width: 33.33%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+	text-indent: 200px;
+	background-color: #111;
+ 	color: white;
+ 	font-style: italic;
+ 	position: static;
+}
+
+.video{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#tribute-info{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0 auto;
+	text-align: left;
+	width: 1000px;
+}
+.notes{
+	width: 1000px;
+}
+.labels{
+	font-weight: bold;
+	font-size: 20pt;
+}
+.descriptions{
+	font-family: Verdana;
+	word-spacing: 5px;
+}
+.lore{
+	padding-bottom: 20px;
+}
+li{
+	padding-bottom: 10px;
+}
+#tribute-link{
+	display: inline-block;
+	text-align: right;
+	color: 	#FF1493;
+}
+
+#gif{
+	float: right;
+	display: inline-block;
+}
+
+.tribute-info1{
+	font-size: 16pt;
+	font-family: Proxima Nova;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+
